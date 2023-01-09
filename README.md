@@ -3,7 +3,7 @@
 <br />
 <div align="center">
 
-  <img src="/todoList/images/tasks.ico" alt="Logo" width="80" height="80">
+  <img src="/Images/icon.png" alt="Logo" width="80" height="80">
 
   <h3 align="center">EveryDay Tasks Manager</h3>
 
