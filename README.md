@@ -120,7 +120,7 @@ After choosing the hotel you can check more details about it (Pictures,Location,
 
 And finally as an ADMIN you can manage users with a simple "CRUD" with our simplified Admin Dashboard.
 
-<div align="center"><img src="/Images/search.png" alt="Admin Dashboard" width="800" height="600"></div>
+<div align="center"><img src="/Images/admin.png" alt="Admin Dashboard" width="800" height="600"></div>
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
