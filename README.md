@@ -108,11 +108,19 @@ Your app is ready to be deployed!
 We provide for the moment just one simple interface that shows all hotels you may like.
 You can login or register and book the hotel you desire !
 
-<div align="center"><img src="/Images/homePage.png" alt="Home page" width="500" height="500"></div>
+<div align="center"><img src="/Images/homePage.png" alt="Home page" width="800" height="600"></div>
 
-And finally you can delete the task selected.
+You can also search for the best deals depends on the date you pick.
 
-<div align="center"><img src="./todoList/images/delete.jpeg" alt="Delete Task" width="300" height="570"></div>
+<div align="center"><img src="/Images/search.png" alt="Search page" width="800" height="600"></div>
+
+After choosing the hotel you can check more details about it (Pictures,Location,Interior Details...)
+
+<div align="center"><img src="/Images/details.png" alt="Details page" width="800" height="600"></div>
+
+And finally as an ADMIN you can manage users with a simple "CRUD" with our simplified Admin Dashboard.
+
+<div align="center"><img src="/Images/search.png" alt="Admin Dashboard" width="800" height="600"></div>
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -123,8 +131,8 @@ And finally you can delete the task selected.
 
 ## Roadmap
 
-- [x] Add A Calendar
-- [x] Add A Reminder
+- [x] Add A Map
+- [x] Add A LiveChat
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
