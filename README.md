@@ -46,7 +46,7 @@
 ## About The Project
 <div align="center">
 <br>
-<img src="/Images/homePage.png" alt="main page" width="300" height="570" > 
+<img src="/Images/homePage.png" alt="main page" width="500" height="500" > 
 </div>
 <br>
 Visit & Book your favorite hotel in simple clicks with our very basic designed website. Search and look for the best deal in many places around the world ! 
@@ -108,7 +108,7 @@ Your app is ready to be deployed!
 We provide for the moment just one simple interface that shows all hotels you may like.
 You can login or register and book the hotel you desire !
 
-<div align="center"><img src="/Images/homePage.png" alt="Home page" width="300" height="570"></div>
+<div align="center"><img src="/Images/homePage.png" alt="Home page" width="500" height="500"></div>
 
 And finally you can delete the task selected.
 
