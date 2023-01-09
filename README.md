@@ -46,7 +46,7 @@
 ## About The Project
 <div align="center">
 <br>
-<img src="/Images/homePage.png" alt="main page" width="720" height="720" > 
+<img src="/Images/homePage.png" alt="main page" width="800" height="720" > 
 </div>
 <br>
 Visit & Book your favorite hotel in simple clicks with our very basic designed website. Search and look for the best deal in many places around the world ! 
