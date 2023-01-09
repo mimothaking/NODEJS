@@ -5,12 +5,12 @@
 
   <img src="/Images/icon.png" alt="Logo" width="80" height="80">
 
-  <h3 align="center">EveryDay Tasks Manager</h3>
+  <h3 align="center">The Unique Hotel Booking Manager</h3>
 
   <p align="center">
-    Manage your tasks easily with our basic designed mobile application with "EXPO"
+    Book your favorite hotel with our basic designed website with "MERN"
     <br />
-    <strong>React native Application</strong>
+    <strong>MERN Stack Website</strong>
     <br />
     <br />
   </p>
@@ -46,11 +46,10 @@
 ## About The Project
 <div align="center">
 <br>
-<img src="./todoList/images/homepage.jpeg" alt="main page" width="300" height="570" > 
+<img src="/Images/homePage.png" alt="main page" width="300" height="570" > 
 </div>
 <br>
-EveryDay Tasks is a basic task manager mobile application ! With simple clicks you can add or delete your own tasks.
-With a very basic design, you can manage your day however you like. 
+Visit & Book your favorite hotel in simple clicks with our very basic designed website. Search and look for the best deal in many places around the world ! 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -61,7 +60,9 @@ This section is about the major frameworks/libraries used to bootstrap this mini
 
 
 * [React.js](https://reactjs.org/)
-* [React Native](https://reactnative.dev)
+* [NodeJs](https://nodejs.org/en/)
+* [ExpressJs](https://expressjs.com)
+* [MongoDb](https://www.mongodb.com)
 * [UseState](https://reactjs.org/docs/hooks-reference.html#usestate)
 
 
@@ -104,10 +105,10 @@ Your app is ready to be deployed!
 
 ### Home Page
 
-We provide for the moment just one simple interface that shows all of your tasks.
-You can add your tasks by writing them down and clicking the + button :D
+We provide for the moment just one simple interface that shows all hotels you may like.
+You can login or register and book the hotel you desire !
 
-<div align="center"><img src="./todoList/images/tasks.jpeg" alt="Home page" width="300" height="570"></div>
+<div align="center"><img src="/Images/homePage.png" alt="Home page" width="300" height="570"></div>
 
 And finally you can delete the task selected.
 
